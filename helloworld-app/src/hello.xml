@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!--注释：以上声明放在第一行，必须有-->
+<!--根标签只能有一个-->
+<users>
+    <user id="1">
+        <name>张无忌</name>
+        <sex>男</sex>
+        <地址>光明顶</地址>
+    </user>
+    <people>很多人</people>
+</users>
